@@ -1,7 +1,9 @@
 **Python Tic-Tac-Toe Game**
+
 This is a simple implementation of the classic Tic-Tac-Toe game in Python. The game allows a user to play against the computer. The computer makes random moves without any AI logic. The game is played on the console, and the board is displayed after each move.
 
 **Features**
+
 a. The game board is displayed as a 3x3 grid.
 b. The user plays with 'O' and the computer with 'X'.
 c. The computer's first move is placed in the middle of the board.
